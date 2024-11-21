@@ -101,6 +101,7 @@ function PaginationArrow({
       'ml-2 md:ml-4': direction === 'right',
     },
   );
+  
 
   const icon =
     direction === 'left' ? (
